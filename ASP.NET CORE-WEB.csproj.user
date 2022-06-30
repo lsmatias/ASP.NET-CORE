@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>Prod SelfH osting</ActiveDebugProfile>
+    <ActiveDebugProfile>DEV IIS Express</ActiveDebugProfile>
   </PropertyGroup>
 </Project>
