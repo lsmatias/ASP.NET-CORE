@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pKvePPJOeLUE7GSP9U03/3w4ALH1TVQ3QQVSmFtsyjvWIDJXEApFNua0K2Wn3Govs+xn35JpTHSjsQIPt8AJRA==",
+  "dgSpecHash": "/4dBq1xx7oylJWuWQPtmUeXjOwZ2DZSzuAK7aWJHHy23S4neGpgONMCWXmdJZFrxjbOHn419d68ruPwlRLmkKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sr_keeggo_lsmatias\\source\\repos\\ASP.NET CORE-WEB\\ASP.NET CORE-WEB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sr_keeggo_lsmatias\\.nuget\\packages\\nuget.frameworks\\6.2.1\\nuget.frameworks.6.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
