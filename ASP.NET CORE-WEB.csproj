@@ -7,4 +7,8 @@
     <RootNamespace>ASP.NET_CORE_WEB</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NuGet.Frameworks" Version="6.2.1" />
+  </ItemGroup>
+
 </Project>
