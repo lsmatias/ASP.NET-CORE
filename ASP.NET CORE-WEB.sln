@@ -5,8 +5,6 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET CORE-WEB", "ASP.NET CORE-WEB.csproj", "{D1A1F078-BC66-4734-B763-01C42B08B6B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PULWebTest", "..\PULWebTest\PULWebTest.csproj", "{CDF67811-AC68-41D7-96FB-0213C499AC36}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{D1A1F078-BC66-4734-B763-01C42B08B6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A1F078-BC66-4734-B763-01C42B08B6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A1F078-BC66-4734-B763-01C42B08B6B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDF67811-AC68-41D7-96FB-0213C499AC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDF67811-AC68-41D7-96FB-0213C499AC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDF67811-AC68-41D7-96FB-0213C499AC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDF67811-AC68-41D7-96FB-0213C499AC36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
