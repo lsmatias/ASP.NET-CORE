@@ -26,3 +26,14 @@ Crie um conjunto comum de linguagens, estruturas e ferramentas que são estávei
 
 >Observação
 Para obter um Blazor tutorial de início rápido, [consulte Criar seu primeiro Blazor aplicativo](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro).
+
+# Componentes
+
+Blazor os aplicativos são baseados em componentes. Um componente é Blazor um elemento da interface do usuário, como uma página, uma caixa de diálogo ou um formulário de entrada de dados.
+
+Os componentes são classes .NET C# internas em assemblies .NET que:
+
+Definem a lógica de renderização da interface de usuário flexível.
+Tratam eventos do usuário.
+Podem ser aninhados e reutilizados.
+Pode ser compartilhado e distribuído como Razor bibliotecas de classes ou pacotes NuGet.
