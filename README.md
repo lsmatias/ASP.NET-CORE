@@ -12,4 +12,4 @@ Crie UIs interativas avançadas usando C# em vez de JavaScript.
 Compartilhe a lógica de aplicativo do lado do cliente e do servidor gravada no .NET.
 Renderize a interface do usuário, como HTML e CSS para suporte amplo de navegadores, incluindo navegadores móveis.
 Integre-se a plataformas de hospedagem modernas, como o Docker.
-Crie aplicativos móveis e de área de trabalho híbrida com .NET e Blazor.
+Crie aplicativos móveis e de área de trabalho híbrida com .NET e Blazor
