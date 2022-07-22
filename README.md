@@ -23,3 +23,6 @@ Compartilhe a lógica de aplicativo entre o servidor e o cliente.
 Beneficie-se com o desempenho, confiabilidade e segurança do .NET.
 Mantenha-se produtivo no Windows, linux ou macOS com um ambiente de desenvolvimento, como Visual Studio ou Visual Studio Code.
 Crie um conjunto comum de linguagens, estruturas e ferramentas que são estáveis, com recursos avançados e fáceis de usar.
+
+>Observação
+Para obter um Blazor tutorial de início rápido, [consulte Criar seu primeiro Blazor aplicativo](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro).
