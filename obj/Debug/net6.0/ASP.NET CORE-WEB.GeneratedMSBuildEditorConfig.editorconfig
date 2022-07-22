@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASP.NET_CORE_WEB
 build_property.RootNamespace = ASP.NET_CORE_WEB
-build_property.ProjectDir = C:\Users\sr_keeggo_lsmatias\source\repos\ASP.NET CORE-WEB\
+build_property.ProjectDir = c:\Users\sr_keeggo_lsmatias\Documents\ASP.NET-CORE\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sr_keeggo_lsmatias\source\repos\ASP.NET CORE-WEB
+build_property.MSBuildProjectDirectory = c:\Users\sr_keeggo_lsmatias\Documents\ASP.NET-CORE
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/Home/Index.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/Home/Privacy.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/Shared/Error.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/_ViewImports.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/_ViewStart.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sr_keeggo_lsmatias/source/repos/ASP.NET CORE-WEB/Views/Shared/_Layout.cshtml]
+[c:/Users/sr_keeggo_lsmatias/Documents/ASP.NET-CORE/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vca8p4ly4w
